@@ -1,4 +1,4 @@
 php-json
 ========
 
-Naive JSON Parser in PHP
+Naïve JSON Parser in PHP
